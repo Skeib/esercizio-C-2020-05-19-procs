@@ -3,7 +3,7 @@
 
 N = 10
 
-un processo padre crea N processi figli
+un processo padre crea N processi figli ( https://repl.it/@MarcoTessarotto/crea-n-processi-figli )
 
 shared variables: countdown, process_counter[N], shutdown
 
